@@ -19,7 +19,7 @@ setup(
     author_email='otov4its@gmail.com',
     packages=find_packages(exclude=['contrib', 'docs', 'tests*']),
     install_requires=[
-        'Django>=1.7'
+        'Django>=1.6'
     ],
     keywords=['django', 'walletone', 'w1'],
     classifiers=[
